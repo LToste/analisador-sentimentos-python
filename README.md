@@ -35,6 +35,6 @@ Este projeto realiza uma análise simples de sentimentos (positivo, negativo ou 
 
 ## ✨ Autor
 
-Projeto desenvolvido por [Seu Nome Aqui].
+Projeto desenvolvido por [Lorena França](www.linkedin.com/in/lorena-franca-rocha)
 
 ---
